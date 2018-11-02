@@ -36,3 +36,6 @@
 12. integer to roman
     * medium
     * 100.00%
+13. roman to integer
+    * easy
+    * 95.95%
