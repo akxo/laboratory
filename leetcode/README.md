@@ -39,3 +39,6 @@
 13. roman to integer
     * easy
     * 95.95%
+14. longest common prefix
+    * easy
+    * 86.23%
