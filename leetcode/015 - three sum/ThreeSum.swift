@@ -17,74 +17,38 @@ A solution set is:
 class Solution {
     func threeSum(_ nums: [Int]) -> [[Int]] {
         guard nums.count > 2 else { return [] }
-        var triplets = [[Int]]()
-        var compliments = [Int : Int]()
-        var filteredNums = [Int]()
-        var existingTriplets = [[Int] : Bool]()
+        let sorted = nums.sorted(by: <)
+        var trips = [[Int]]()
         
-        
-        for num in nums {
-            if var count = compliments[num] {
-                if count < 3 {
-                    count += 1
-                    compliments[num] = count
-                    filteredNums.append(num)
-                }
-            } else {
-                compliments[num] = 1
-                filteredNums.append(num)
-            }
-        }
-        
-        guard filteredNums.count > 2 else { return [] }
-        
-        for i in 0...filteredNums.count - 2 {
-            if var count = compliments[filteredNums[i]], count > 0 {
-                count -= 1
-                compliments[filteredNums[i]] = count
-            }
-            for j in (i+1)..<filteredNums.count {
-                if var count = compliments[filteredNums[j]], count > 0 {
-                    count -= 1
-                    compliments[filteredNums[j]] = count
-                }
-                let c =  (0 - (filteredNums[i] + filteredNums[j]))
-                if let count = compliments[c], count > 0 {
-                    var arr = [filteredNums[i], filteredNums[j], c]
-                    arr = arr.sorted(by: <)
-                    if let _ = existingTriplets[arr] {
-                        
+        for i in 0...sorted.count - 2 {
+            if i == 0 || sorted[i] != sorted[i - 1] {
+                var start = i + 1
+                var end = sorted.count - 1
+                let a = sorted[i]
+                let sum = 0 - a
+                
+                while start < end {
+                    let b = sorted[start]
+                    let c = sorted[end]
+                    
+                    if b + c == sum {
+                        trips.append([a, b, c])
+                        while start < end, b == sorted[start + 1] {
+                            start += 1
+                        }
+                        while start < end, c == sorted[end - 1] {
+                            end -= 1
+                        }
+                        start += 1
+                        end -= 1
+                    } else if b + c < sum {
+                        start += 1
                     } else {
-                        existingTriplets[arr] = true
-                        triplets.append(arr)
-                    }
-                }
-                if var count = compliments[filteredNums[j]] {
-                    count += 1
-                    compliments[filteredNums[j]] = count
-                }
-            }
-            if var count = compliments[filteredNums[i]] {
-                count += 1
-                compliments[filteredNums[i]] = count
-            }
-        }
-        return triplets
-    }
-    
-    func isUnique(_ newArr: [Int], _ triplets: [[Int]]) -> Bool {
-        for arr in triplets {
-            var mutArr = arr
-            if mutArr.contains(newArr[0]) {
-                mutArr.remove(at: mutArr.firstIndex(of: newArr[0])!)
-                if mutArr.contains(newArr[1]) {
-                    mutArr.remove(at: mutArr.firstIndex(of: newArr[1])!)
-                    if mutArr.contains(newArr[2]) {
-                        return false
+                        end -= 1
                     }
                 }
             }
         }
-        return true
+        return trips
     }
 }

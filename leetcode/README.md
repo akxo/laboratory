@@ -42,3 +42,6 @@
 14. longest common prefix
     * easy
     * 86.23%
+15. three sum
+    * medium
+    * 64.32%
