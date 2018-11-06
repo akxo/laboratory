@@ -45,3 +45,6 @@
 15. three sum
     * medium
     * 64.32%
+16. three sum closest
+    * medium
+    * 81.82%
