@@ -48,3 +48,6 @@
 16. three sum closest
     * medium
     * 81.82%
+17. letter combinations of a phone number
+    * medium
+    * 81.25%
