@@ -54,3 +54,6 @@
 18. four sum
     - medium
     - 73.33%
+19. remove nth node from end of list
+    - medium
+    - 100.00%
