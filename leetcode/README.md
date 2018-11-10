@@ -57,3 +57,6 @@
 19. remove nth node from end of list
     - medium
     - 100.00%
+20. valid parentheses
+    - easy
+    - 98.60%
