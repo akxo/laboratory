@@ -60,3 +60,6 @@
 20. valid parentheses
     - easy
     - 98.60%
+21. merge two sorted lists
+    - easy
+    - 100.00%
