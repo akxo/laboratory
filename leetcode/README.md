@@ -63,3 +63,6 @@
 21. merge two sorted lists
     - easy
     - 100.00%
+22. generate parentheses
+    - medium
+    - 59.70%
