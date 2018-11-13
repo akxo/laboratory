@@ -66,3 +66,6 @@
 22. generate parentheses
     - medium
     - 59.70%
+23. merge k sorted lists
+    - hard
+    - 88.89%
