@@ -69,3 +69,6 @@
 23. merge k sorted lists
     - hard
     - 23.08% / 88.89%
+24. swap nodes in pairs
+    - medium
+    - 98.28%
