@@ -22,6 +22,50 @@ Output: 1->1->2->3->4->4->5->6 */
  *     }
  * }
  */
+
+// merge sort - like
+class Solution {
+    func mergeKLists(_ lists: [ListNode?]) -> ListNode? {
+        guard lists.count > 1 else { return lists.first ?? nil }
+        return divide(lists)
+    }
+    
+    func divide(_ lists: [ListNode?]) -> ListNode? {
+        guard lists.count > 1 else { return lists[0] }
+        
+        let left = Array(lists[0..<lists.count / 2])
+        let right = Array(lists[lists.count / 2..<lists.count])
+        
+        return merge(divide(left), divide(right))
+    }
+    
+    func merge(_ left: ListNode?, _ right: ListNode?) -> ListNode? {
+        var dummyHead = ListNode(0)
+        var curr: ListNode? = dummyHead
+        var currLeft = left
+        var currRight = right
+        
+        while currLeft != nil && currRight != nil {
+            if currLeft!.val < currRight!.val {
+                curr?.next = currLeft
+                currLeft = currLeft?.next
+            } else {
+                curr?.next = currRight
+                currRight = currRight?.next
+            }
+            curr = curr?.next
+        }
+        
+        if currLeft == nil {
+            curr?.next = currRight
+        } else {
+            curr?.next = currLeft
+        }
+        return dummyHead.next
+    }
+}
+
+// creates sorted list from sorting a compilation array from each list
 class Solution {
     func mergeKLists(_ lists: [ListNode?]) -> ListNode? {
         guard lists.count > 1 else { return lists.first ?? nil }
