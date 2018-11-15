@@ -72,3 +72,6 @@
 24. swap nodes in pairs
     - medium
     - 98.28%
+25. reverse nodes in k group
+    - hard
+    - 88.89%
