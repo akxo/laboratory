@@ -75,3 +75,6 @@
 25. reverse nodes in k group
     - hard
     - 88.89%
+26. remove duplocates from sorted array
+    - easy
+    - 100.00%
