@@ -44,7 +44,7 @@ class Solution {
         var i = 1
         for num in nums {
             if num > nums[i - 1] {
-                nums[i] = num;
+                nums[i] = num
                 i += 1
             }
         }
