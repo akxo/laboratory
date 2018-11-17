@@ -78,3 +78,6 @@
 26. remove duplocates from sorted array
     - easy
     - 100.00%
+27. remove element
+    - easy
+    - 100.00%
