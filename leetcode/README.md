@@ -81,3 +81,6 @@
 27. remove element
     - easy
     - 100.00%
+28. implement strStr()
+    - easy
+    - 100.00%
