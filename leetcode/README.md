@@ -87,3 +87,6 @@
 29. divide two integers
     - medium
     - 100.00%
+30. substring with concatenation of all words
+    - hard
+    - 62.50%
