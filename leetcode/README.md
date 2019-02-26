@@ -90,3 +90,6 @@
 30. substring with concatenation of all words
     - hard
     - 62.50%
+33. search in rotated sorted array
+    - medium
+    - 100.00%
