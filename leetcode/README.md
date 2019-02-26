@@ -93,3 +93,6 @@
 33. search in rotated sorted array
     - medium
     - 100.00%
+36. valid sudoku
+    - medium
+    - 87.50%
