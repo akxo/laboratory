@@ -93,6 +93,9 @@
 33. search in rotated sorted array
     - medium
     - 100.00%
+34. find first and last position of element in sorted array
+    - medium
+    - 100.00%
 36. valid sudoku
     - medium
     - 87.50%
