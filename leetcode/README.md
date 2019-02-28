@@ -138,6 +138,10 @@
 
     - medium
     - 100.00%
+35\. search insert position
+
+    - easy
+    - 100.00%
 36\. valid sudoku
 
     - medium
