@@ -146,3 +146,7 @@
 
     - medium
     - 87.50%
+41\. first missing positive
+
+    - hard
+    - 100.00%
