@@ -130,6 +130,10 @@
 
     - hard
     - 62.50%
+32\. longest valid parentheses
+
+    - hard
+    - 81.25
 33\. search in rotated sorted array
 
     - medium
