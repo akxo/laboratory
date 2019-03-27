@@ -154,3 +154,7 @@
 
     - hard
     - 100.00%
+202\. happy number
+
+    - easy
+    - 51.96%
