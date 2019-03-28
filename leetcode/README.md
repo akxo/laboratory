@@ -158,3 +158,7 @@
 
     - easy
     - 51.96%
+977\. squares of a sorted array
+
+    - easy
+    - 68.66%
