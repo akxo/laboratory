@@ -154,6 +154,10 @@
 
     - hard
     - 100.00%
+169\. majority element
+
+    - easy
+    - 79.73%
 202\. happy number
 
     - easy
