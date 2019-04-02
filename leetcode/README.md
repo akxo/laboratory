@@ -162,6 +162,10 @@
 
     - easy
     - 51.96%
+717\. 1-bit and 2-bit characters
+
+    - easy
+    - 93.33%
 977\. squares of a sorted array
 
     - easy
