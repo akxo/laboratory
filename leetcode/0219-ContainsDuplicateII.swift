@@ -22,10 +22,8 @@ class Solution {
             let num = nums[i]
             if let j = seenNumbers[num] {
                 guard i - j > k else { return true }
-                seenNumbers[num] = i
-            } else {
-                seenNumbers[num] = i
             }
+            seenNumbers[num] = i
         }
         return false
     }
