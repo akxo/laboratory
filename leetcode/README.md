@@ -158,6 +158,10 @@
 
     - easy
     - 79.73%
+217\. contains duplicate
+
+    - easy
+    - 100.00%
 202\. happy number
 
     - easy
