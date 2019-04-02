@@ -158,14 +158,18 @@
 
     - easy
     - 79.73%
-217\. contains duplicate
-
-    - easy
-    - 100.00%
 202\. happy number
 
     - easy
     - 51.96%
+217\. contains duplicate
+    
+    - easy
+    - 100.00%
+219\. contains duplicate ii
+    
+    - easy
+    - 91.58%
 717\. 1-bit and 2-bit characters
 
     - easy
