@@ -170,6 +170,10 @@
     
     - easy
     - 91.58%
+242\. valid anagram
+
+    - easy
+    - 83.39%
 717\. 1-bit and 2-bit characters
 
     - easy
