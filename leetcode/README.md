@@ -174,6 +174,10 @@
 
     - easy
     - 83.39%
+292\. nim game
+
+    - easy
+    - 100.00%
 717\. 1-bit and 2-bit characters
 
     - easy
