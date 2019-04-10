@@ -235,6 +235,11 @@
     - easy
     - 84.21%
 
+650\. 2 keys keyboard
+
+    - medium
+    - 100.00%
+
 717\. 1-bit and 2-bit characters
 
     - easy
