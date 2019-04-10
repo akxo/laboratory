@@ -230,6 +230,11 @@
     - easy
     - 100.00%
 
+645\. set mismatch
+
+    - easy
+    - 84.21%
+
 717\. 1-bit and 2-bit characters
 
     - easy
