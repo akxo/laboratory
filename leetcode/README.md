@@ -255,6 +255,11 @@
     - easy
     - 97.62%
 
+771\. jewels and stones
+
+    - easy
+    - 100.00%
+
 977\. squares of a sorted array
 
     - easy
