@@ -249,7 +249,12 @@
 
     - easy
     - 93.33%
-    
+
+724\. find pivot index
+
+    - easy
+    - 97.62%
+
 977\. squares of a sorted array
 
     - easy
