@@ -260,6 +260,11 @@
     - easy
     - 100.00%
 
+849\. maximize distance to closest person
+
+    - easy
+    - 100.00%
+
 977\. squares of a sorted array
 
     - easy
