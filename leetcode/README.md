@@ -269,3 +269,8 @@
 
     - easy
     - 68.66%
+
+1021\. remove outermost parentheses
+
+    - easy
+    - 100.00%
