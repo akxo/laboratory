@@ -260,6 +260,11 @@
     - easy
     - 100.00%
 
+841\. keys and rooms
+
+    - medium
+    - 93.75%
+
 849\. maximize distance to closest person
 
     - easy
