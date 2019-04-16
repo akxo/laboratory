@@ -265,6 +265,11 @@
     - easy
     - 100.00%
 
+870\. advantage shuffle
+
+    - medium
+    - 36.36%
+
 977\. squares of a sorted array
 
     - easy
