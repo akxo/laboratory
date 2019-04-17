@@ -290,6 +290,11 @@
     - easy
     - 68.66%
 
+1002\. find common characters
+
+    - easy
+    - 97.45%
+
 1021\. remove outermost parentheses
 
     - easy
