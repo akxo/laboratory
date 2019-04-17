@@ -275,6 +275,11 @@
     - easy
     - 100.00%
 
+866\. prime palindrome
+
+    - medium
+    - 100.00%
+
 870\. advantage shuffle
 
     - medium
