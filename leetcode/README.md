@@ -260,6 +260,11 @@
     - easy
     - 100.00%
 
+801\. minimum swaps to make sequences increasing
+
+    - medium
+    - 100.00%
+
 841\. keys and rooms
 
     - medium
