@@ -285,6 +285,11 @@
     - medium
     - 36.36%
 
+905\. sort array by parity
+
+    - easy
+    - 93.37%
+
 977\. squares of a sorted array
 
     - easy
