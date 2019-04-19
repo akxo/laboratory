@@ -215,6 +215,11 @@
     - medium
     - 100.00%
 
+371\. sum of two integers
+
+    - easy
+    - 100.00%
+
 389\. find the difference
 
     - easy
