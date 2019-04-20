@@ -225,6 +225,11 @@
     - easy
     - 100.00%
 
+397\. integer replacement
+
+    - medium
+    - 100.00%
+
 412\. fizz buzz
 
     - easy
