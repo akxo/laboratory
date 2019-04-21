@@ -295,6 +295,11 @@
     - medium
     - 36.36%
 
+896\. monotonic array
+
+    - easy
+    - 95.71%
+
 905\. sort array by parity
 
     - easy
