@@ -305,6 +305,11 @@
     - easy
     - 93.37%
 
+961\. n-repeated element in size 2n array
+
+    - easy
+    - 100.00%
+
 977\. squares of a sorted array
 
     - easy
