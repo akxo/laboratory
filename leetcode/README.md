@@ -180,6 +180,11 @@
     - hard
     - 100.00%
     
+100\. same tree
+
+    - easy
+    - 100.00%
+
 169\. majority element
 
     - easy
