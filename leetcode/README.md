@@ -290,6 +290,11 @@
     - medium
     - 100.00%
 
+869\. reordered power of 2
+
+    - medium
+    - 100.00%
+
 870\. advantage shuffle
 
     - medium
