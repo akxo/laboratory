@@ -310,6 +310,11 @@
     - easy
     - 100.00%
 
+976\. largest perimeter triangle
+
+    - easy
+    - 100.00%
+
 977\. squares of a sorted array
 
     - easy
