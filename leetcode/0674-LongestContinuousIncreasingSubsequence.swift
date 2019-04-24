@@ -23,8 +23,7 @@ class Solution {
         var ans = 1
         var curr = 1
         for i in 1..<nums.count {
-            guard nums[i] > nums[i - 1] else { curr = 1; continue }
-            curr += 1
+            curr = nums[i] > nums[i - 1] ? curr + 1 : 1
             ans = max(ans, curr)
         }
         return ans
