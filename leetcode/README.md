@@ -260,6 +260,11 @@
     - medium
     - 100.00%
 
+674\. longest continuous increasing subsequence
+
+    - easy
+    - 88.41%
+
 717\. 1-bit and 2-bit characters
 
     - easy
