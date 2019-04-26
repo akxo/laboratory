@@ -350,6 +350,11 @@
     - easy
     - 68.66%
 
+997\. find the town judge
+
+    - easy
+    - 96.20%
+
 1002\. find common characters
 
     - easy
