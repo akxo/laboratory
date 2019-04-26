@@ -179,7 +179,12 @@
 
     - hard
     - 100.00%
-    
+
+71\. simplify path
+
+    - medium
+    - 100.00%
+
 100\. same tree
 
     - easy
