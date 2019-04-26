@@ -290,6 +290,11 @@
     - medium
     - 100.00%
 
+832\. flipping an image
+
+    - easy
+    - 100.00%
+
 841\. keys and rooms
 
     - medium
