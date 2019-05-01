@@ -280,6 +280,11 @@
     - easy
     - 88.41%
 
+709\. to lower case
+
+    - easy
+    - 100.00%
+
 717\. 1-bit and 2-bit characters
 
     - easy
