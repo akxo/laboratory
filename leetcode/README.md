@@ -190,6 +190,11 @@
     - easy
     - 100.00%
 
+136\. single number
+
+    - easy
+    - 96.61%
+
 169\. majority element
 
     - easy
