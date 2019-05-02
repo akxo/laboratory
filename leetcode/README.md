@@ -260,6 +260,11 @@
     - easy
     - 100.00%
 
+532\. k-diff pairs in an array
+
+    - easy
+    - 93.44%
+
 575\. distribute candies
 
     - easy
