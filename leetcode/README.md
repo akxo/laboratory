@@ -214,7 +214,12 @@
     
     - easy
     - 91.58%
-    
+
+238\. product of array except self
+
+    - medium
+    - 92.63%
+
 242\. valid anagram
 
     - easy
