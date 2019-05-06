@@ -380,6 +380,11 @@
     - easy
     - 96.20%
 
+999\.  available captures for rook
+
+    - easy
+    - 92.22%
+
 1002\. find common characters
 
     - easy
