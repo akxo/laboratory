@@ -204,7 +204,12 @@
 
     - easy
     - 51.96%
-    
+
+206\. reverse linked list
+
+    - easy
+    - 100.00%
+
 217\. contains duplicate
     
     - easy
