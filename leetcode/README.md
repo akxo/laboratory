@@ -189,6 +189,11 @@
 
     - easy
     - 100.00%
+    
+118\. pascal's triangle
+
+    - easy
+    - 98.16%
 
 136\. single number
 
