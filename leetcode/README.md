@@ -245,6 +245,11 @@
     - medium
     - 100.00%
 
+347\. top k frequent elements
+
+    - medium
+    - 65.50%
+
 371\. sum of two integers
 
     - easy
