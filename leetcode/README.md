@@ -414,3 +414,8 @@
 
     - easy
     - 100.00%
+
+1028\. divisor game
+
+    - hard
+    - 7.14%
