@@ -415,7 +415,12 @@
     - easy
     - 100.00%
 
-1028\. divisor game
+1028\. recover a tree from preorder traversal
 
     - hard
     - 7.14%
+
+1028\. two city scheduling
+
+    - easy
+    - 92.68%
