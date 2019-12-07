@@ -424,3 +424,8 @@
 
     - easy
     - 92.68%
+
+1030\. matrix cells in distance order
+
+    - easy
+    - 46.15%
