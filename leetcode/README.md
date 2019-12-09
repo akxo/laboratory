@@ -234,7 +234,12 @@
 
     - easy
     - 83.39%
-    
+
+268\. missing number
+
+    - easy
+    - 99.58%
+
 292\. nim game
 
     - easy
