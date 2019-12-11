@@ -240,6 +240,11 @@
     - easy
     - 83.39%
 
+258\. add digits
+
+    - easy
+    - 95.37%
+
 268\. missing number
 
     - easy
