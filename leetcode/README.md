@@ -295,6 +295,11 @@
     - easy
     - 100.00%
 
+520\. detect capital
+
+    - easy
+    - 98.41%
+
 532\. k-diff pairs in an array
 
     - easy
