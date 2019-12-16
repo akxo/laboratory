@@ -314,6 +314,11 @@
 
     - easy
     - 96.88%
+    
+606\. construct string from binary tree
+
+    - easy
+    - 97.06%
 
 645\. set mismatch
 
