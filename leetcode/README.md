@@ -185,6 +185,11 @@
     - medium
     - 100.00%
 
+98\. validate binary search tree
+
+    - medium
+    - 96.14%
+
 100\. same tree
 
     - easy
