@@ -270,6 +270,11 @@
     - medium
     - 100.00%
 
+326\. power of three
+
+    - easy
+    - 86.96%
+
 347\. top k frequent elements
 
     - medium
