@@ -235,6 +235,11 @@
     - easy
     - 91.58%
 
+231\. power of two
+
+    - easy
+    - 77.03%
+
 238\. product of array except self
 
     - medium
