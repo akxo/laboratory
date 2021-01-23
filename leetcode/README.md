@@ -275,6 +275,11 @@
     - easy
     - 86.96%
 
+342\. power of four
+
+    - easy
+    - 81.25%
+
 347\. top k frequent elements
 
     - medium
