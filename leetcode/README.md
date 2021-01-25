@@ -484,3 +484,8 @@
 
     - easy
     - 46.15%
+
+1732\. find the highest altitude
+
+    - easy
+    - 78.26%
