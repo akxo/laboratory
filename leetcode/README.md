@@ -395,6 +395,11 @@
     - easy
     - 100.00%
 
+860\. lemonade change
+
+    - easy
+    - 97.78%
+
 866\. prime palindrome
 
     - medium
