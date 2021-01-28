@@ -485,6 +485,11 @@
     - easy
     - 46.15%
 
+1475\. final prices with a special discount in a shop
+
+    - easy
+    - 100.00%
+
 1732\. find the highest altitude
 
     - easy
