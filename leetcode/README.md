@@ -414,6 +414,11 @@
 
     - medium
     - 36.36%
+    
+888\. fair candy swap
+
+    - easy
+    - 84.62%
 
 896\. monotonic array
 
