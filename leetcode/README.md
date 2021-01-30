@@ -490,6 +490,11 @@
     - easy
     - 46.15%
 
+1437\. check if all 1's are at least length k places away
+
+    - easy
+    - 100.00%
+
 1475\. final prices with a special discount in a shop
 
     - easy
