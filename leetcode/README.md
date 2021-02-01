@@ -504,3 +504,8 @@
 
     - easy
     - 78.26%
+
+1742\. maximum number of balls in a box
+
+    - easy
+    - 100.00%
