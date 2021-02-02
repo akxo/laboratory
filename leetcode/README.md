@@ -304,6 +304,11 @@
 
     - easy
     - 100.00%
+
+429\. n-ary tree level order traversal
+
+    - medium
+    - 100.00%
     
 463\. island perimeter
 
