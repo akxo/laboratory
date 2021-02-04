@@ -500,6 +500,11 @@
     - easy
     - 46.15%
 
+1052\. grumpy bookstore owner
+
+    - medium
+    - 50.00%
+
 1437\. check if all 1's are at least length k places away
 
     - easy
