@@ -529,3 +529,8 @@
 
     - easy
     - 100.00%
+
+1748\. sum of unique elements
+
+    - easy
+    - 100.00%
