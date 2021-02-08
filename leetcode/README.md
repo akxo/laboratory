@@ -534,3 +534,8 @@
 
     - easy
     - 100.00%
+
+1752\. check if array is sorted and rotated
+
+    - easy
+    - 100.00%
