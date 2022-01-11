@@ -520,6 +520,11 @@
     - easy
     - 100.00%
 
+1652\. defuse the bomb
+
+    - easy
+    - 100.00%
+
 1732\. find the highest altitude
 
     - easy
