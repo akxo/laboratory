@@ -544,3 +544,8 @@
 
     - easy
     - 100.00%
+    
+1935\. maximum number of words you can type
+
+    - easy
+    - 100.00%
