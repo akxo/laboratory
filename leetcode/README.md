@@ -389,6 +389,11 @@
 
     - easy
     - 100.00%
+    
+781\. rabbits in forest
+
+    - medium
+    - 100.00%
 
 801\. minimum swaps to make sequences increasing
 
