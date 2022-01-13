@@ -554,3 +554,8 @@
 
     - easy
     - 100.00%
+
+2000\. reverse prefix of word
+
+    - easy
+    - 93.75%
