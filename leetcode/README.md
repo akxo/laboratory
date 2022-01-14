@@ -550,6 +550,11 @@
     - easy
     - 100.00%
     
+1827\. minimum operations to make the array increasing
+
+    - easy
+    - 95.00%
+    
 1935\. maximum number of words you can type
 
     - easy
