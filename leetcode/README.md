@@ -525,6 +525,11 @@
     - easy
     - 100.00%
 
+1512\. number of good pairs
+
+    - easy
+    - 100.00%
+
 1652\. defuse the bomb
 
     - easy
