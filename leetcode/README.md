@@ -560,6 +560,11 @@
     - easy
     - 95.00%
     
+1930\. unique length-3 palindromic subsequences
+
+    - medium
+    - 71.43%
+    
 1935\. maximum number of words you can type
 
     - easy
