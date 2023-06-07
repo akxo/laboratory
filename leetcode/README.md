@@ -469,6 +469,11 @@
 
     - easy
     - 68.66%
+    
+986\. interval list intersections
+
+    - medium
+    - 84.90%
 
 997\. find the town judge
 
