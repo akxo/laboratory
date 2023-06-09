@@ -540,6 +540,11 @@
     - easy
     - 100.00%
 
+1710\. maximum units on a truck
+
+    - easy
+    - 84.85%
+
 1732\. find the highest altitude
 
     - easy
