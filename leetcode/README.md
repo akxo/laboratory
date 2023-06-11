@@ -565,6 +565,11 @@
     - easy
     - 100.00%
     
+1768\. merge strings alternately
+
+    - easy
+    - 98.15%
+    
 1827\. minimum operations to make the array increasing
 
     - easy
