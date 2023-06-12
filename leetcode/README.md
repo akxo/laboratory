@@ -280,6 +280,11 @@
     - easy
     - 81.25%
 
+345\. reverse vowels of a string
+
+    - easy
+    - 97.30%
+
 347\. top k frequent elements
 
     - medium
