@@ -520,6 +520,11 @@
     - medium
     - 50.00%
 
+1431\. kids with the greatest number of candies
+
+    - easy
+    - 81.50%
+
 1437\. check if all 1's are at least length k places away
 
     - easy
