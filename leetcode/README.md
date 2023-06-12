@@ -349,6 +349,11 @@
 
     - easy
     - 96.88%
+  
+605\. can place flowers
+
+    - easy
+    - 87.79%
     
 606\. construct string from binary tree
 
