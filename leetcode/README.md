@@ -305,6 +305,11 @@
     - easy
     - 100.00%
 
+392\. is subsequence
+
+    - easy
+    - 100.00%
+
 397\. integer replacement
 
     - medium
